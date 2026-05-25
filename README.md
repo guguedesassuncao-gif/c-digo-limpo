@@ -10,7 +10,7 @@ O autor explica que variáveis, funções e classes devem ter nomes claros e obj
 Importância:
 Melhora a compreensão do sistema e facilita manutenção.
 
-⸻
+
 
 Capítulo 4 — Comentários
 
@@ -19,7 +19,7 @@ Comentários devem ser usados apenas quando realmente necessários. Um código b
 Importância:
 Evita confusão e torna o código mais limpo.
 
-⸻
+
 
 Capítulo 5 — Formatação
 
@@ -28,7 +28,7 @@ A organização visual do código é importante. Indentação correta e separaç
 Importância:
 Facilita o trabalho em equipe e melhora a legibilidade.
 
-⸻
+
 
 Conclusão
 
